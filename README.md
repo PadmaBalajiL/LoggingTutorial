@@ -28,3 +28,7 @@ The logging is configured in `main.py`. Here's a breakdown of the configuration:
 *   **Formatter:** A formatter is used to define the format of the log messages: `%(asctime)s  -%(name)s  -%(levelname)s  -%(message)s`.
 
 The `main.py` file also contains a commented-out section that shows how to configure logging using the `logging.conf` file.
+
+## Loguru Tutorial
+
+For a tutorial on how to use the `loguru` package, please see the [Loguru Tutorial](loguru_tutorial.md).
